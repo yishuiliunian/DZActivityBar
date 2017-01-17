@@ -70,7 +70,7 @@
 		113C9BE62B5F6C3642A5F031628AA511 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		113F7CD6DF73807486688125971D9771 /* DZViewControllerLifeCircleAction.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = DZViewControllerLifeCircleAction.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		121DB621481083831FFEC54BC2C8B2C7 /* UIViewController+ActivityNavigationBar.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIViewController+ActivityNavigationBar.h"; sourceTree = "<group>"; };
-		1CEAC2055714CB138B6DCBF3DABB736C /* Pods_DZActivityBar_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_DZActivityBar_Example.framework; path = "Pods-DZActivityBar_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1CEAC2055714CB138B6DCBF3DABB736C /* Pods_DZActivityBar_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DZActivityBar_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		26A77083ACDD15B2D93F9CF86955504B /* Pods-DZActivityBar_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-DZActivityBar_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		26D570B6868C2B1DB0371FA00BAE70DB /* UIView+YHAttachment.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UIView+YHAttachment.m"; sourceTree = "<group>"; };
 		285F29AD51F65F6606930A30CF14C0EF /* Pods-DZActivityBar_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-DZActivityBar_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
@@ -78,12 +78,12 @@
 		3181B03254BA1DE471BFEE9862A9A848 /* UIViewController+appearSwizzedBlock.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIViewController+appearSwizzedBlock.h"; path = "DZViewControllerLifeCircleAction/Classes/UIViewController+appearSwizzedBlock.h"; sourceTree = "<group>"; };
 		364ACC1840DA5A28030F8C6AFF46E0D2 /* DZViewControllerLifeCircleAction.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = DZViewControllerLifeCircleAction.xcconfig; sourceTree = "<group>"; };
 		374C6ECAD2277602ACBB2384F9FD9B72 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		3D2409BC85F30C96ED0B84F6BC9240B2 /* Pods-DZActivityBar_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-DZActivityBar_Tests.modulemap"; sourceTree = "<group>"; };
-		44FC1C00D9F5F5CE989957057D265B8E /* DZViewControllerLifeCircleAction.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = DZViewControllerLifeCircleAction.framework; path = DZViewControllerLifeCircleAction.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		3D2409BC85F30C96ED0B84F6BC9240B2 /* Pods-DZActivityBar_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-DZActivityBar_Tests.modulemap"; sourceTree = "<group>"; };
+		44FC1C00D9F5F5CE989957057D265B8E /* DZViewControllerLifeCircleAction.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = DZViewControllerLifeCircleAction.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		46FB95B68F6A9F70CF40DE0C879750E8 /* Pods-DZActivityBar_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-DZActivityBar_Example-umbrella.h"; sourceTree = "<group>"; };
 		49279B00BE92A5A7734979B12DD84018 /* UIViewController+ActivityNavigationBar.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+ActivityNavigationBar.m"; sourceTree = "<group>"; };
 		4E3EC5937B45263BE43D74BAB9850EFD /* DZViewControllerLifeCircleBaseAction.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = DZViewControllerLifeCircleBaseAction.h; path = DZViewControllerLifeCircleAction/Classes/DZViewControllerLifeCircleBaseAction.h; sourceTree = "<group>"; };
-		4FDC3EF9D46FE5BE411683A2B62FEBEA /* DZViewControllerLifeCircleAction.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = DZViewControllerLifeCircleAction.modulemap; sourceTree = "<group>"; };
+		4FDC3EF9D46FE5BE411683A2B62FEBEA /* DZViewControllerLifeCircleAction.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = DZViewControllerLifeCircleAction.modulemap; sourceTree = "<group>"; };
 		5659C6427B0D972438F21BE0AC245153 /* Pods-DZActivityBar_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-DZActivityBar_Tests-resources.sh"; sourceTree = "<group>"; };
 		572CB54CF2D6D84E6816D50BA30EED8E /* Pods-DZActivityBar_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-DZActivityBar_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		5A7FCB31EA5EB8861A7CBF6A4D573889 /* Pods-DZActivityBar_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-DZActivityBar_Tests.release.xcconfig"; sourceTree = "<group>"; };
@@ -92,12 +92,12 @@
 		66B54DA9A7F4302992F44B3DB65DE91B /* DZActivityBarAppearAction.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = DZActivityBarAppearAction.h; sourceTree = "<group>"; };
 		6D8B2E5FA731830FBA2AF54B1808DB31 /* Pods-DZActivityBar_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-DZActivityBar_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		6FD10E5B6926ED00EC80A1A47AB31110 /* DZVCOnceLifeCircleAction.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = DZVCOnceLifeCircleAction.h; path = DZViewControllerLifeCircleAction/Classes/DZVCOnceLifeCircleAction.h; sourceTree = "<group>"; };
-		7739EC7B701ACDE6FFD612D761EBCCDF /* DZActivityBar.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = DZActivityBar.modulemap; sourceTree = "<group>"; };
-		7CCC246674EC98BFD5D46B3690D1B83B /* DZActivityBar.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = DZActivityBar.framework; path = DZActivityBar.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		7739EC7B701ACDE6FFD612D761EBCCDF /* DZActivityBar.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = DZActivityBar.modulemap; sourceTree = "<group>"; };
+		7CCC246674EC98BFD5D46B3690D1B83B /* DZActivityBar.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = DZActivityBar.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		82CCAD2AF3BF99C6BF703D1C0BFC39C7 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8AC5CE2DC2D6344D123C72A41D48198B /* DZViewControllerLifeCircleBaseAction.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = DZViewControllerLifeCircleBaseAction.m; path = DZViewControllerLifeCircleAction/Classes/DZViewControllerLifeCircleBaseAction.m; sourceTree = "<group>"; };
-		922B5F811133FDBA8BB3BD121CAADBDA /* Pods-DZActivityBar_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-DZActivityBar_Example.modulemap"; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		922B5F811133FDBA8BB3BD121CAADBDA /* Pods-DZActivityBar_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-DZActivityBar_Example.modulemap"; sourceTree = "<group>"; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		956021D68884C523222D1C0D2DABEB71 /* Pods-DZActivityBar_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-DZActivityBar_Tests-umbrella.h"; sourceTree = "<group>"; };
 		96556F37B45E215D81141D5004DD3AA6 /* DZActivityBar-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "DZActivityBar-umbrella.h"; sourceTree = "<group>"; };
 		A69E9C60901B5D1168F9E50C3CC6F17E /* DZActivityBar-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "DZActivityBar-dummy.m"; sourceTree = "<group>"; };
@@ -106,12 +106,13 @@
 		AE740D98551C3FC6ADC9E7D1FB3ACDBC /* Pods-DZActivityBar_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-DZActivityBar_Tests-dummy.m"; sourceTree = "<group>"; };
 		AF0DE16CD5A7C32F4175867C721F7FE9 /* DZViewControllerLifeCircleAction-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "DZViewControllerLifeCircleAction-dummy.m"; sourceTree = "<group>"; };
 		B194247B17CFA9D8C5C3CEADBB233F18 /* Pods-DZActivityBar_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-DZActivityBar_Tests-frameworks.sh"; sourceTree = "<group>"; };
-		BEB4AB30C8776FC4B2B01D07405E7603 /* Pods_DZActivityBar_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_DZActivityBar_Tests.framework; path = "Pods-DZActivityBar_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		BEB4AB30C8776FC4B2B01D07405E7603 /* Pods_DZActivityBar_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DZActivityBar_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C784651A26E440940373A64BC81BC876 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		C85FDF2FF9A098D0C7557CBF9C0EDC70 /* UIView+YHAttachment.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIView+YHAttachment.h"; sourceTree = "<group>"; };
 		CE90024BB5FF13D5EB60B39171FAA1A3 /* DZActivityBar-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "DZActivityBar-prefix.pch"; sourceTree = "<group>"; };
 		D640F34E55FB6EF5BE3E14B04DBA5FAB /* UIViewController+appearSwizzedBlock.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIViewController+appearSwizzedBlock.m"; path = "DZViewControllerLifeCircleAction/Classes/UIViewController+appearSwizzedBlock.m"; sourceTree = "<group>"; };
 		E04C3D1B457CCA6781F05DB7409AB1ED /* DZActivityNavigationBar.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = DZActivityNavigationBar.m; sourceTree = "<group>"; };
+		E10DD8001E2DE59000D8793C /* DZActivityBar.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DZActivityBar.h; sourceTree = "<group>"; };
 		EFA4F3E7700D6A3E83F720152343ED3C /* DZActivityNavigationBar.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = DZActivityNavigationBar.h; sourceTree = "<group>"; };
 		F23AB505328F4AADCB0165BD2C66BCF0 /* DZVCOnceLifeCircleAction.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = DZVCOnceLifeCircleAction.m; path = DZViewControllerLifeCircleAction/Classes/DZVCOnceLifeCircleAction.m; sourceTree = "<group>"; };
 		FDABD1FB9D9E36E912AA1A398431DFB9 /* Pods-DZActivityBar_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-DZActivityBar_Example.release.xcconfig"; sourceTree = "<group>"; };
@@ -212,7 +213,6 @@
 			children = (
 				8FE2D84F922F68B8BEFCC10F6EAFBACF /* Classes */,
 			);
-			name = DZActivityBar;
 			path = DZActivityBar;
 			sourceTree = "<group>";
 		};
@@ -289,8 +289,8 @@
 				26D570B6868C2B1DB0371FA00BAE70DB /* UIView+YHAttachment.m */,
 				121DB621481083831FFEC54BC2C8B2C7 /* UIViewController+ActivityNavigationBar.h */,
 				49279B00BE92A5A7734979B12DD84018 /* UIViewController+ActivityNavigationBar.m */,
+				E10DD8001E2DE59000D8793C /* DZActivityBar.h */,
 			);
-			name = Classes;
 			path = Classes;
 			sourceTree = "<group>";
 		};
@@ -331,7 +331,6 @@
 				D640F34E55FB6EF5BE3E14B04DBA5FAB /* UIViewController+appearSwizzedBlock.m */,
 				8BAD4564A627E1F67ACFA3BB2FAA7755 /* Support Files */,
 			);
-			name = DZViewControllerLifeCircleAction;
 			path = DZViewControllerLifeCircleAction;
 			sourceTree = "<group>";
 		};
