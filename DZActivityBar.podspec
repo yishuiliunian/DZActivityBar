@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'DZActivityBar'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of DZActivityBar.'
+  s.summary          = '在NavigationBar上显示Activity活动标记'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,14 +18,14 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
-                       DESC
+在NavigationBar上显示Activity活动标记，并带有自动隐藏和显示功能
+                        DESC
 
-  s.homepage         = 'https://github.com/<GITHUB_USERNAME>/DZActivityBar'
+  s.homepage         = 'https://github.com/yishuiliunian/DZActivityBar'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'yishuiliunian' => 'yishuiliunian@gmail.com' }
-  s.source           = { :git => 'https://github.com/<GITHUB_USERNAME>/DZActivityBar.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/yishuiliunian/DZActivityBar.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
@@ -39,4 +39,5 @@ TODO: Add long description of the pod here.
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
+  s.dependency 'DZViewControllerLifeCircleAction'
 end

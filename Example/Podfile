@@ -5,7 +5,5 @@ target 'DZActivityBar_Example' do
 
   target 'DZActivityBar_Tests' do
     inherit! :search_paths
-
-    pod 'FBSnapshotTestCase'
   end
 end

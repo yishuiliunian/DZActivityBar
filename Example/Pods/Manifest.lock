@@ -1,0 +1,19 @@
+PODS:
+  - DZActivityBar (0.1.0):
+    - DZViewControllerLifeCircleAction
+  - DZViewControllerLifeCircleAction (0.1.2)
+
+DEPENDENCIES:
+  - DZActivityBar (from `../`)
+
+EXTERNAL SOURCES:
+  DZActivityBar:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DZActivityBar: 832f73ff3abdb3d52060a22325c2eacec43a154a
+  DZViewControllerLifeCircleAction: d380d52914622c48f2b18bc919f885d2389b32c7
+
+PODFILE CHECKSUM: 2afc86ec68d85ed13be6d04f98c555d0510f89c9
+
+COCOAPODS: 1.2.0.rc.1
